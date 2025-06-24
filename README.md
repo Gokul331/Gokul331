@@ -4,7 +4,7 @@
 
 
 
-* 📖 I’m currently learning on HTML, CSS, JAVA, JS**
+* 📖 I’m currently learning on HTML, CSS, JavaScript, React, Python**, Numpy**
 
 * 📲 How to reach me **gokulece303@gmail.com**
 
