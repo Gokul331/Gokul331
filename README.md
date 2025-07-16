@@ -1,13 +1,38 @@
-<h1 align="center">Hi 👋, I'm Gokul P</h1>
-<h3 align="center">WEB DEVELOPER</h3>
-<h3 align="center">A passionate frontend developer and java developer from India</h3>
-
-
-
-* 📖 I’m currently learning on HTML, CSS, JavaScript, React, Python**, Numpy**
-
-* 📲 How to reach me **gokulece303@gmail.com**
-
+<div class="portfolio-bio">
+  <h1 align="center">Hi, I'm Gokul P – Freelance Developer & Skill Upgrader</h1>
+  
+  <p>I'm passionate about building modern web applications and continuously upgrading my skills to stay ahead in tech. My expertise includes:</p>
+  
+  <div class="skills">
+    <h3>Frontend:</h3>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>React</li>
+      <li>TailwindCSS</li>
+    </ul>
+    
+  <h3>Backend:</h3>
+    <ul>
+      <li>Python</li>
+      <li>REST APIs</li>
+    </ul>
+    
+  <h3>Database:</h3>
+    <ul>
+      <li>MySQL</li>
+    </ul>
+    
+  <h3>Freelance Work:</h3>
+    <p>Delivering clean, efficient, and scalable solutions</p>
+  </div>
+  
+  <div class="status">
+    <p>🔧 <strong>Currently sharpening my skills in:</strong> DSA, Pandas</p>
+    <p>💼 <strong>Open for freelance projects</strong> – Let's collaborate and bring ideas to life!</p>
+  </div>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gokul3103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gokul3103/" height="30" width="40" /></a>
@@ -22,6 +47,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul331&show_icons=true&locale=en&layout=compact" alt="gokul331" /></p>
 
-
-
+  
+</div>
 
