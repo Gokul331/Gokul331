@@ -1,52 +1,36 @@
-<div class="portfolio-bio">
-  <h1 align="center">Hi, I'm Gokul P – Freelance Developer & Skill Upgrader</h1>
-  
-  <p>I'm passionate about building modern web applications and continuously upgrading my skills to stay ahead in tech. My expertise includes:</p>
-  
-  <div class="skills">
-    <h3>Frontend:</h3>
-    <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JavaScript</li>
-      <li>React</li>
-      <li>TailwindCSS</li>
-    </ul>
-    
-  <h3>Backend:</h3>
-    <ul>
-      <li>Python</li>
-      <li>REST APIs</li>
-    </ul>
-    
-  <h3>Database:</h3>
-    <ul>
-      <li>MySQL</li>
-    </ul>
-    
-  <h3>Freelance Work:</h3>
-    <p>Delivering clean, efficient, and scalable solutions</p>
-  </div>
-  
-  <div class="status">
-    <p>🔧 <strong>Currently sharpening my skills in:</strong> DSA, Pandas</p>
-    <p>💼 <strong>Open for freelance projects</strong> – Let's collaborate and bring ideas to life!</p>
-  </div>
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gokul3103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gokul3103/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gokul0331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gokul0331" height="30" width="40" /></a>
+# 👋 Hi, I'm Gokul 
 
-<a href="https://www.hackerrank.com/pg183165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pg183165" height="30" width="40" /></a>
-</p>
+**Full-Stack Developer | DSA Problem Solver | Web Enthusiast**  
 
-<h3 align="left">Languages and Tools:</h3>
+I craft pixel-perfect web experiences while competing on LeetCode. Currently building ShopEase - an e-commerce revolution.
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul331&show_icons=true&locale=en&layout=compact" alt="gokul331" /></p>
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-  
-</div>
+**Backend:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
+**Database:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 🚀 Featured Projects
+
+### [Personal Portfolio](https://gokulachiever.netlify.app/)  
+✨ Showcase of my best work with smooth animations  
+🛠️ Built with: React, Tailwind CSS, Framer Motion  
+
+### [ShopEase (WIP)](https://shopeaseanywhere.netlify.app/)  
+🛒 Full-stack e-commerce platform  
+🔥 Features: Product filtering, Cart system, Responsive UI  
+🛠️ Tech: MERN Stack (MongoDB, Express, React, Node.js)  
+
+## 🏆 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gokul0331?theme=dark&font=baloo&border=0&radius=20)](https://leetcode.com/gokul0331)
